@@ -44,7 +44,7 @@ int main()
 
 	string text;
     ifstream myfile;
-    cout<<"please change the path of the enwik8 file before running the program\n";
+    cout<<"please change the path to the encode file\n";
     string path = "D:/multi/enwik8";
     myfile.open(path);
 
